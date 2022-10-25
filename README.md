@@ -7,4 +7,8 @@ Welcome to our github repository for Gebze Technican University's Software Engin
 TODO
 
 ## Team Members
-TODO
+* [Serhat Sarı](https://github.com/serhhatsari)  
+* [Halil İbrahim İlhan](https://github.com/hybrayhem)  
+* [Ozan Armağan](https://github.com/ozanarmagan)  
+* [Asuman Sare Ergüt](https://github.com/asumansaree)  
+* [Atacan Başaran](https://github.com/Tefoni)    
