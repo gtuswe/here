@@ -4,6 +4,3 @@
 [submodule "here-web-backend"]
 	path = here-web-backend
 	url = https://github.com/gtuswe/here-web-backend
-[submodule "here-mobile"]
-	path = here-mobile
-	url = https://github.com/gtuswe/here-mobile
