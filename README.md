@@ -10,8 +10,8 @@ teachers can take attendance without counting the class or circulating a sheet i
 students certainly know in which weeks they attend to the class.  
 
 ## Team Members
-* [Serhat Sarı](https://github.com/serhhatsari)  DevOps Engineer & Frontend Developer   
-* [Halil İbrahim İlhan](https://github.com/hybrayhem)  Mobile Developer   
-* [Ozan Armağan](https://github.com/ozanarmagan)  Full Stack Developer   
-* [Asuman Sare Ergüt](https://github.com/asumansaree)  Backend Developer   
-* [Atacan Başaran](https://github.com/Tefoni)    Mobile Developer  
+* [Serhat Sarı](https://github.com/serhhatsari) : DevOps Engineer & Frontend Developer   
+* [Halil İbrahim İlhan](https://github.com/hybrayhem) : Mobile Developer   
+* [Ozan Armağan](https://github.com/ozanarmagan) : Full Stack Developer   
+* [Asuman Sare Ergüt](https://github.com/asumansaree) : Backend Developer   
+* [Atacan Başaran](https://github.com/Tefoni)  :  Mobile Developer  
