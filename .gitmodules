@@ -1,6 +1,9 @@
-[submodule "here-web"]
-	path = here-web
-	url = https://github.com/gtuswe/here-web
+[submodule "here-frontend"]
+	path = here-frontend
+	url = https://github.com/gtuswe/here-frontend
+[submodule "here-backend"]
+	path = here-backend
+	url = https://github.com/gtuswe/here-backend
 [submodule "here-mobile"]
 	path = here-mobile
 	url = https://github.com/gtuswe/here-mobile
